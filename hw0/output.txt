@@ -1,5 +1,5 @@
 name:
-   first: Urvish
-   last: Desai
-email: urvish@nyu.edu
-leaderboard: Baseline
+   first: Assaf
+   last: Singer
+email: as12152@nyu.edu
+leaderboard: Hummus94
